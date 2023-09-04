@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssetManagement", "AssetManagement\AssetManagement.csproj", "{A0A2CE52-3134-4253-B67C-4079CEE1CB2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssetManagementFrontend", "AssetManagementFrontend\AssetManagementFrontend.csproj", "{FC777D6C-53B5-46EA-80F4-0B9D8048A6CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0A2CE52-3134-4253-B67C-4079CEE1CB2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0A2CE52-3134-4253-B67C-4079CEE1CB2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0A2CE52-3134-4253-B67C-4079CEE1CB2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0A2CE52-3134-4253-B67C-4079CEE1CB2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC777D6C-53B5-46EA-80F4-0B9D8048A6CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC777D6C-53B5-46EA-80F4-0B9D8048A6CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC777D6C-53B5-46EA-80F4-0B9D8048A6CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC777D6C-53B5-46EA-80F4-0B9D8048A6CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3770D954-B1B7-424A-9523-71BD8FC08B41}
+	EndGlobalSection
+EndGlobal
